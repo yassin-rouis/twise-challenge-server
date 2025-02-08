@@ -12,7 +12,15 @@ This A.I., available at home on a computer and at school through a humanoid robo
 
 > **For more details, see the full Hakim documentation in the “docs” folder.**
 
-## Installation
+## Architecture
+
+![Hakim Architecture](https://github.com/yassin-rouis/twise-challenge-server/blob/master/docs/Architechture%20Diagram.jpg?raw=true)
+
+## Features
+
+![Hakim Features](https://github.com/yassin-rouis/twise-challenge-server/blob/master/docs/HAKIM%20Features.jpg?raw=true)
+
+### Installation
 
 Clone the repository
 
@@ -21,12 +29,12 @@ git clone https://github.com/yassin-rouis/twise-challenge-server
 cd twise-challenge-server
 ```
 
-## Install dependencies
+### Install dependencies
 ```
 npm install
 ```
 
-## Launch the application
+### Launch the application
 
 To start the server, run the following command:
 ```
@@ -34,12 +42,12 @@ node ./index.js
 ```
 The server can be accessed at: http://localhost:3000/
 
-## Testing
+### Testing
 
 You can test the application by opening your browser and accessing the URL :
 
 http://localhost:3000/
 
-## License
+### License
 
 This project is licensed under the MIT License.
