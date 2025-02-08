@@ -1,6 +1,9 @@
 # Hakim
 
+![Logo HAKIM](https://github.com/yassin-rouis/twise-challenge-server/blob/master/docs/Logo%20Hakim.png?raw=true)
+
 ## Description
+
 
 Hakim is an A.I. assistant web application.
 It is able to define course and study objectives and follow you step by step.
