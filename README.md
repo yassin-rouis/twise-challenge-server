@@ -1,39 +1,42 @@
-Hakim
+# Hakim
 
-Description
+## Description
 
-L'assistant est une application web d'assistant I.A.
-Elle est capable de définir des objectifs de cours et d'études et de vous suivre petit à petit.
+Hakim is an A.I. assistant web application.
+It is able to define course and study objectives and follow you step by step.
 
-Cette I.A., disponible chez vous sur ordinateur et à l'école a travers un robot humanoide est l'avenir de l'enseignement.
+This A.I., available at home on a computer and at school through a humanoid robot, is the future of teaching.
 
-**Pour plus de détails, accédez à la documentation complète de Hakim dans le dossier "docs"**
+**For more details, see the full Hakim documentation in the “docs” folder.**
 
-Installation
+## Installation
 
-Cloner le dépôt
+Clone the repository
 
+```bash
 git clone https://github.com/yassin-rouis/twise-challenge-server
 cd twise-challenge-server
+```
 
-Installer les dépendances
-
+## Install dependencies
+```
 npm install
+```
 
-Lancer l'application
+## Launch the application
 
-Pour démarrer le serveur, exécutez la commande suivante :
-
+To start the server, run the following command:
+```
 node ./index.js
+```
+The server can be accessed at: http://localhost:3000/
 
-Le serveur sera accessible à l'adresse : http://localhost:3000/
+## Testing
 
-Tests
-
-Vous pouvez tester l'application en ouvrant votre navigateur et en accédant à l'URL :
+You can test the application by opening your browser and accessing the URL :
 
 http://localhost:3000/
 
-Licence
+## License
 
-Ce projet est sous licence MIT.
+This project is licensed under the MIT License.
