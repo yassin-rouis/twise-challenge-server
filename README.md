@@ -7,7 +7,7 @@ It is able to define course and study objectives and follow you step by step.
 
 This A.I., available at home on a computer and at school through a humanoid robot, is the future of teaching.
 
-**For more details, see the full Hakim documentation in the “docs” folder.**
+> **For more details, see the full Hakim documentation in the “docs” folder.**
 
 ## Installation
 
