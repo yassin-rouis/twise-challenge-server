@@ -20,6 +20,10 @@ This A.I., available at home on a computer and at school through a humanoid robo
 
 ![Hakim Features](https://github.com/yassin-rouis/twise-challenge-server/blob/master/docs/HAKIM%20Features.jpg?raw=true)
 
+## First Twise-Challenge Prototype
+
+In this GIT, you'll find the code for Hakim's very first prototype, specially created for the Twise Night Challenge.
+
 ### Installation
 
 Clone the repository
