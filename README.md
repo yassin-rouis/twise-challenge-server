@@ -1,4 +1,4 @@
-class-quiz-assistant
+Hakim
 
 Description
 
@@ -9,8 +9,8 @@ Installation
 
 Cloner le dépôt
 
-git clone https://github.com/yassin-rouis/class-quiz-assistant
-cd class-quiz-assistant
+git clone https://github.com/yassin-rouis/twise-challenge-server
+cd twise-challenge-server
 
 Installer les dépendances
 
